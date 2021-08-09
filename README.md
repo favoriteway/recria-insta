@@ -4,3 +4,5 @@
 
 <b> 💻 O projeto foi criado utilizando as seguintes tecnologias:</b>
 <li> Notepad++ </li>
+
+obrigado por ver meu projeto 🎈
