@@ -2,7 +2,7 @@
 👓 Projeto proposto pela DIO (Digital Innovation One) para treinamento das técnicas de HTML e CSS, dentro do bootcamp de HTML Web Developer 
 
 
-<b> 💻 O projeto foi criado utilizando as seguintes tecnologias:</b>
+# 💻 O projeto foi criado utilizando as seguintes tecnologias:
 <li> Notepad++ </li>
 
-obrigado por ver meu projeto 🎈
+<p>obrigado por ver meu projeto 🎈 </p>
